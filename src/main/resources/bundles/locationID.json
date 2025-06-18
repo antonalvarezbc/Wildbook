@@ -1,6 +1,37 @@
 {
   	"description": "Hierarchical Encounter.locationID list in Wildbook",
 	"source": "Consenso de localizaciones jerarquicas para el lince ibérico",
+{"name":"Região Vale do Guadiana", "id":"Região Vale do Guadiana", "locationID":[]},
+		{"name":"Región Montes Toledo", "id":"Región Montes Toledo", "locationID":[
+			{"name":"Montes Toledo", "id":"Montes Toledo", "locationID":[]},
+			{"name":"Valdecañas", "id":"Valdecañas", "locationID":[]}
+			{"name":"Ibores", "id":"Ibores", "locationID":[]}	
+		]},
+        {"name":"Región Doñana-Aljarafe", "id":"Región Doñana-Aljarafe", "locationID":[]},
+		{"name":"Región Sierra Morena", "id":"Región Sierra Morena", "locationID":[
+			{"name":"Andújar-Cardeña", "id":"Andújar-Cardeña", "locationID":[]},
+			{"name":"Campo de Montiel", "id":"Campo de Montiel", "locationID":[]},
+			{"name":"Guadalmellato", "id":"Guadalmellato", "locationID":[]},
+			{"name":"Guadalmez", "id":"Guadalmez", "locationID":[]},
+			{"name":"Guarrizas", "id":"Guarrizas", "locationID":[]},
+			{"name":"Marmolejo-Montoro", "id":"Marmolejo-Montoro", "locationID":[]},
+			{"name":"Sierra Norte de Sevilla", "id":"Sierra Norte de Sevilla", "locationID":[]},
+			{"name":"Sotillo", "id":"Sotillo", "locationID":[]},
+			{"name":"Valdecigüeñas", "id":"Valdecigüeñas", "locationID":[]}
+		]},
+		{"name":"Región Sierras Centrales de Badajoz", "id":"Región Sierras Centrales de Badajoz", "locationID":[
+			{"name":"Matachel", "id":"Matachel", "locationID":[]},
+			{"name":"Ortiga", "id":"Ortiga", "locationID":[]}
+		]},
+		{"name":"Conexión Sierra Morena - Sierra Arana", "id":"Conexión Sierra Morena - Sierra Arana", "locationID":[
+			{"name":"Pegalajar", "id":"Pegalajar", "locationID":[]}
+		]},
+		{"name":"Conexión Sierra Morena - Sierras de Murcia", "id":"Conexión Sierra Morena - Sierras de Murcia", "locationID":[]},
+		{"name":"Región Sierras de Murcia", "id":"Región Sierras de Murcia", "locationID":[
+			{"name":"Tierras Altas de Lorca", "id":"Tierras Altas de Lorca", "locationID":[]}
+		]},
+		{"name":"Región Sierra Arana", "id":"Región Sierra Arana", "locationID":[]},
+		{"name":"Itinerante", "id":"Itinerante", "locationID":[]},
 	"locationID": [
 		{
 			"name": "France",
@@ -12,31 +43,6 @@
 				}
 			 ]
 		},
-{"name":"Vale do Guadiana", "id":"Región Vale do Guadiana", "locationID":[]},
-		{"name":"Región Montes Toledo", "id":"Región Montes Toledo", "locationID":[
-			{"name":"Montes Toledo", "id":"Montes Toledo", "locationID":[]},
-			{"name":"Valdecañas-Ibores", "id":"Valdecañas-Ibores", "locationID":[]}	
-		]},
-        {"name":"Doñana-Aljarafe", "id":"Región Doñana-Aljarafe", "locationID":[]},
-		{"name":"Región Sierra Morena", "id":"Región Sierra Morena", "locationID":[
-			{"name":"Andújar-Cardeña", "id":"Andújar-Cardeña", "locationID":[]},
-			{"name":"Campo de Montiel", "id":"Campo de Montiel", "locationID":[]},
-			{"name":"Guadalmellato", "id":"Guadalmellato", "locationID":[]},
-			{"name":"Guadalmez", "id":"Guadalmez", "locationID":[]},
-			{"name":"Guarrizas", "id":"Guarrizas", "locationID":[]},
-			{"name":"Marmolejo-Montoro", "id":"Marmolejo-Montoro", "locationID":[]},
-			{"name":"Sierra Norte", "id":"Sierra Norte de Sevilla", "locationID":[]},
-			{"name":"Valdecigüeñas", "id":"Valdecigüeñas", "locationID":[]}
-		]},
-		{"name":"Sierras Centrales de Badajoz", "id":"Región Sierras Centrales de Badajoz", "locationID":[
-			{"name":"Matachel", "id":"Matachel", "locationID":[]},
-			{"name":"Ortiga", "id":"Ortiga", "locationID":[]}
-		]},
-		{"name":"Pegalajar", "id":"Conexión Sierra Morena - Sierra Arana", "locationID":[]},
-		{"name":"Conexión Sierra Morena - Sierras de Murcia", "id":"Conexión Sierra Morena - Sierras de Murcia", "locationID":[]},
-		{"name":"Lorca", "id":"Región Sierras de Murcia", "locationID":[]},
-		{"name":"Sierra Arana", "id":"Región Sierra Arana", "locationID":[]},
-		{"name":"Itinerante", "id":"Itinerante", "locationID":[]},
 		{"name":"Old", "id":"Old", "locationID":[
 			
 		{ "name":"2.Cas", "id":"2.Cas", "locationID":[] },
